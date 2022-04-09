@@ -2,8 +2,8 @@ package javaProject;
 
 import org.testng.annotations.Test;
 
-import basicProgram.DropDownMethod;
-import pom_Page_Object_Module.AtomationProject;
+//import basicProgram.DropDownMethod;
+//import pom_Page_Object_Module.AtomationProject;
 
 import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.By;
